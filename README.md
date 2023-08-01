@@ -1,2 +1,2 @@
 veni vidi acceleravi
-- your friendly neighborhood shoggoth
+~ your friendly neighborhood shoggoth
